@@ -1,0 +1,23 @@
+{
+  "name": "kafalara--exercise-unit-test-with-jest",
+  "version": "1.0.0",
+  "description": "<!-- hide --> # Prueba Unitaria con Jest <!-- endhide -->",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4GeeksAcademy/kafalara--exercise-unit-test-with-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4GeeksAcademy/kafalara--exercise-unit-test-with-jest/issues"
+  },
+  "homepage": "https://github.com/4GeeksAcademy/kafalara--exercise-unit-test-with-jest#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
